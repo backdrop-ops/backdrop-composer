@@ -9,7 +9,9 @@ Backdrop aims to provide:
 
 Requirements
 ------------
-- PHP 5.3.2 or higher. Even if Backdrop can run on older versions of PHP, we strongly recommend that you use a [supported version of PHP](https://secure.php.net/supported-versions.php).
+- PHP 5.3.2 or higher. Even if Backdrop can run on older versions of PHP, we
+  strongly recommend that you use a
+  [supported version of PHP](https://secure.php.net/supported-versions.php).
 - MySQL 5.0.15 or higher with PDO enabled
 - Apache (recommended) or Nginx web server
 - 50 MB of disk space (recommended), 15 MB (minimum)
@@ -31,9 +33,10 @@ Security Issues
 ---------------
 If you have discovered a security issue with Backdrop CMS or any of its
 [contributed modules](https://github.com/backdrop-contrib/), please contact the
-Backdrop Security Team directly at [security@backdropcms.org](mailto:security@backdropcms.org).
-We manage security issues separately in a private repository until the issue
-has been resolved. Even if you're not sure if it's a security problem, please
+Backdrop Security Team directly at
+[security@backdropcms.org](mailto:security@backdropcms.org).
+We manage security issues separately in a private repository until the issue has
+been resolved. Even if you're not sure if it's a security problem, please
 contact the security team before filing an issue.
 
 Developers
@@ -54,10 +57,11 @@ project:
 - [BrowserStack](https://www.browserstack.com) for interface testing across
   desktop and mobile browsers. *(Contact info@backdropcms.org for access
   information.)*
-- [JetBrains](https://www.jetbrains.com/phpstorm/) for use of the PHPStorm IDE
+- [JetBrains](https://www.jetbrains.com/phpstorm) for use of the PHPStorm IDE
   for development. *(Contact info@backdropcms.org for a license.)*
 - [GitHub](https://github.com) for collaboration and code management tools.
-- [ZenCI](https://zen.ci/) for continuous automated testing and sandbox testing.
+- [Tugboat](https://www.tugboat.qa) for powering our [demo site sandboxes](https://backdropcms.org/demo).
+- [ZenCI](https://zen.ci) for continuous automated testing and sandbox testing.
 
 User Guide
 ----------
@@ -70,8 +74,8 @@ Please see the the [Backdrop API Documentation](https://api.backdropcms.org).
 License
 -------
 Backdrop is [GPL v2](http://www.gnu.org/licenses/gpl-2.0.html) (or higher)
-software. See the LICENSE.txt file in the core directory for complete text.
-Distributions of this software may relicense it as any later version of the GPL.
+software. See the LICENSE.txt file for complete text. Distributions of this
+software may relicense it as any later version of the GPL.
 
 All Backdrop code is Copyright 2001 - 2016 by the original authors.
 
